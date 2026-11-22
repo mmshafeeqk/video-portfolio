@@ -1,0 +1,56 @@
+{
+  "contact": {
+    "instagram": "https://www.instagram.com/aiwithihsan/",
+    "email": ""
+  },
+  "showreel": {
+    "title": "Same presenter, four styles",
+    "category": "Style preview",
+    "cover": "/assets/covers/talking-head-reel.webp",
+    "coverAlt": "A presenter between panels listing four talking-head editing styles",
+    "video": "/assets/video/talking-head-preview.mp4",
+    "duration": "0:08",
+    "ratio": "landscape",
+    "description": "A short montage of four style mockups using an illustrative presenter. The gallery has a closer look at each treatment.",
+    "concept": true,
+    "hidden": false
+  },
+  "projects": [
+    {
+      "title": "Clean captions",
+      "category": "Caption-led",
+      "cover": "/assets/covers/clean-captions.webp",
+      "coverAlt": "A talking-head frame with a readable caption near the lower third",
+      "ratio": "vertical",
+      "description": "Style mockup for a focused talking-head edit with a simple lower third, high-contrast captions and room for the presenter.",
+      "concept": true
+    },
+    {
+      "title": "Kinetic typography",
+      "category": "Kinetic Type",
+      "cover": "/assets/covers/kinetic-type.webp",
+      "coverAlt": "Large text reading Make It Land beside the presenter",
+      "ratio": "vertical",
+      "description": "Style mockup for a punchier cut that brings key words forward one at a time, timed to the delivery.",
+      "concept": true
+    },
+    {
+      "title": "Motion graphics",
+      "category": "Motion Graphics",
+      "cover": "/assets/covers/motion-graphics.webp",
+      "coverAlt": "A presenter with an offset visual callout card",
+      "ratio": "vertical",
+      "description": "Style mockup showing how an on-screen reference, callout or cutaway can support what the presenter says.",
+      "concept": true
+    },
+    {
+      "title": "Infographic edit",
+      "category": "Infographics",
+      "cover": "/assets/covers/infographic-edit.webp",
+      "coverAlt": "A presenter next to a three-step infographic explaining hook, context and payoff",
+      "ratio": "vertical",
+      "description": "Style mockup for an explainer that shows steps beside the presenter so viewers can follow the sequence as it unfolds.",
+      "concept": true
+    }
+  ]
+}
