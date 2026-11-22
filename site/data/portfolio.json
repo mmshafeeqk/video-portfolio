@@ -8,9 +8,9 @@
     "category": "Style preview",
     "cover": "/assets/covers/talking-head-reel.webp",
     "coverAlt": "A presenter between panels listing four talking-head editing styles",
-    "video": "/assets/video/talking-head-preview.mp4",
-    "duration": "0:08",
-    "ratio": "landscape",
+    "video": "https://youtube.com/shorts/Vos0ZiU9iko?feature=share",
+    "duration": "0:23",
+    "ratio": "vertical",
     "description": "A short montage of four style mockups using an illustrative presenter. The gallery has a closer look at each treatment.",
     "concept": true,
     "hidden": false
