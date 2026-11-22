@@ -220,7 +220,7 @@ dialog.addEventListener('click', (event) => {
 
 async function loadPortfolio() {
   try {
-    const response = await fetch('data/portfolio.json', { cache: 'no-cache' });
+    const response = await fetch('portfolio.json', { cache: 'no-cache' });
     if (!response.ok) throw new Error(`Portfolio request failed (${response.status}).`);
     const content = await response.json();
     renderReel(content.showreel);
