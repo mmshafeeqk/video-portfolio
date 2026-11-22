@@ -1,6 +1,6 @@
 # Ihsan | Talking-Head Editing Portfolio
 
-## Upload to GitHub from Windows
+## Upload to GitHub from iiii
 
 1. Right-click `Ihsan-Video-Portfolio.zip`, choose **Extract All**, and open the extracted folder. You should see a `site` folder, `.pages.yml`, `netlify.toml`, `.gitignore`, and this `README.md`.
 2. Sign in at [github.com/new](https://github.com/new), name the repository `ihsan-portfolio`, and choose **Private**. Create the repository with **Add README** off, since this download already includes one.
